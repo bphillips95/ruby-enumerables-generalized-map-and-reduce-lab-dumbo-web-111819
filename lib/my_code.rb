@@ -9,5 +9,6 @@ end
 array
 end
 
-def reduce(source_array,starting_value=0)
+def reduce(source_array,starting_value=nil)
+  
   
