@@ -6,5 +6,4 @@ while i < source_array.length do
  yield
   i+=1 
 end
-
 end
