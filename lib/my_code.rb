@@ -8,3 +8,6 @@ array.push(yield(source_array[i]))
 end
 array
 end
+
+def reduce(source_array,starting_value=0)
+  
